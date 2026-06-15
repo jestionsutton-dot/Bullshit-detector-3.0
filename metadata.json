@@ -1,0 +1,6 @@
+{
+  "name": "The B.S. Detector",
+  "description": "Audit YouTube video transcripts or raw text at machine speed to separate observable fact from rhetorical framing and identify bias under the Normative Sentience Standard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
